@@ -1,4 +1,5 @@
-![YukkuriLaboratory_icon3](../images/YukkuriLaboratory_icon3.png)
+
+<img src="../images/YukkuriLaboratory_icon3.png">
 
 # ゆっくり研究所
 

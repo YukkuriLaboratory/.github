@@ -1,7 +1,7 @@
 
 <img src="https://github.com/YukkuriLaboratory/.github/blob/main/images/YukkuriLaboratory_icon3.png?raw=true">
 
-<img src="https://github.com/YukkuriLaboratory/.github/blob/main/images/yukulab.gif">
+<img src="https://github.com/YukkuriLaboratory/.github/blob/main/images/yuku_lab.gif">
 
 # ゆっくり研究所
 

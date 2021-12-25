@@ -1,6 +1,8 @@
 
 <img src="https://github.com/YukkuriLaboratory/.github/blob/main/images/YukkuriLaboratory_icon3.png?raw=true">
 
+<img src="https://github.com/YukkuriLaboratory/.github/blob/main/images/yukulab.gif">
+
 # ゆっくり研究所
 
 霊夢博士の動画で使用されたオリジナルMod置き場です

@@ -1,5 +1,5 @@
 
-<img src="https://github.com/YukkuriLaboratory/.github/blob/main/images/YukkuriLaboratory_icon3.png?raw=true">
+<img src="https://github.com/YukkuriLaboratory/.github/blob/main/images/YukkuriLaboratory.png?raw=true">
 
 # ゆっくり研究所
 
